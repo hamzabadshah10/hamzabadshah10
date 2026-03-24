@@ -1,6 +1,6 @@
 ## Hi, I’m Hamza Badshah!:
 
-I am an aspiring AI/ML Engineer and passionate programmer currently pursuing a BS in Software Engineering. I focus on building intelligent, data-driven solutions using Python, Machine Learning, and modern Software Engineering techniques. I enjoy solving complex problems, experimenting with algorithms, and developing systems that create real-world impact.<br><br>With growing experience in Python programming, ML model development, data preprocessing, AI concepts, and software design principles, I actively work on academic and personal projects to deepen my technical expertise. I recently completed a Generative AI Chatbot Bootcamp, which strengthened my interest in AI-powered applications and automation tools.<br><br>🔧 What I Do<br>Develop intelligent systems using Machine Learning and AI techniques<br>Build automation tools, utilities, and scripts in Python<br>Apply software engineering principles like clean code, modular design, and problem-solving frameworks<br>Work on academic and personal ML/AI projects to improve hands-on experience<br>
+I am an aspiring AI/ML Engineer and passionate programmer currently pursuing a BS in Software Engineering. I focus on building intelligent, data-driven solutions using Python, Machine Learning, and modern Software Engineering techniques. I enjoy solving complex problems, experimenting with algorithms, and developing systems that create real-world impact.<br><br>With growing experience in Python programming, ML model development, data preprocessing, AI concepts, and software design principles, I actively work on academic and personal projects to deepen my technical expertise. I recently completed a Generative AI Chatbot Bootcamp, which strengthened my interest in AI-powered applications and automation tools.<br><br>
 
 
 ## 🌐 Socials:
@@ -18,12 +18,4 @@ I am an aspiring AI/ML Engineer and passionate programmer currently pursuing a B
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabadshah10&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hamzabadshah10&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=hamzabadshah10&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://quotes-github-readme.vercel.app/api?quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson&type=horizontal&theme=radical)
