@@ -5,7 +5,7 @@ I am an aspiring AI/ML Engineer and passionate programmer currently pursuing a B
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hamza-badshah-8aa304286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzabadshah2592@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hamza-badshah-8aa304286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzabadshah2592@gmail.com) <br> 
 
 # 💻 Tech Stack:
 
@@ -13,8 +13,17 @@ I am an aspiring AI/ML Engineer and passionate programmer currently pursuing a B
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hamzabadshah10&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hamzabadshah10&theme=nightowl&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabadshah10&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzabadshah10&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  
+  <br><br>
+  
+  <img src="https://streak-stats.demolab.com/?user=hamzabadshah10&theme=nightowl&hide_border=false" alt="Streak Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabadshah10&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson&type=horizontal&theme=radical)
