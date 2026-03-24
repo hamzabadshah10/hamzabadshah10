@@ -1,7 +1,8 @@
-## Hi, I’m Hamza Badshah!:
+Hi, 👋 I’m Hamza Badshah!</h1>
 
-I am an aspiring AI/ML Engineer and passionate programmer currently pursuing a BS in Software Engineering. I focus on building intelligent, data-driven solutions using Python, Machine Learning, and modern Software Engineering techniques. I enjoy solving complex problems, experimenting with algorithms, and developing systems that create real-world impact.<br><br>With growing experience in Python programming, ML model development, data preprocessing, AI concepts, and software design principles, I actively work on academic and personal projects to deepen my technical expertise. I recently completed a Generative AI Chatbot Bootcamp, which strengthened my interest in AI-powered applications and automation tools.<br><br>
+**An aspiring AI/ML Engineer and passionate programmer currently pursuing a BS in Software Engineering.** I focus on building intelligent, data-driven solutions using Python, Machine Learning, and modern software design principles. I enjoy solving complex problems, experimenting with algorithms, and developing systems that create real-world impact.<br><br>
 
+With growing experience in Python programming, ML model development, data preprocessing, and AI concepts, I actively build academic and personal projects to deepen my technical expertise. Recently, I completed a Generative AI Chatbot Bootcamp, which strengthened my focus on developing AI-powered applications and automation tools.<br><br>
 
 ## 🌐 Socials:
 
@@ -17,7 +18,7 @@ I am an aspiring AI/ML Engineer and passionate programmer currently pursuing a B
 
   <img src="https://github-readme-stats.vercel.app/api?username=hamzabadshah10&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   
-  <br><br>
+  <br>
   
   <img src="https://streak-stats.demolab.com/?user=hamzabadshah10&theme=nightowl&hide_border=false" alt="Streak Stats" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;  <br><br>
@@ -25,5 +26,5 @@ I am an aspiring AI/ML Engineer and passionate programmer currently pursuing a B
 
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson&type=horizontal&theme=radical)
