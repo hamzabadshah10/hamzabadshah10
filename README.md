@@ -4,7 +4,11 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hamza-badshah-8aa304286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzabadshah2592@gmail.com)  <br><br> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/hamza-badshah-8aa304286/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hamzabadshah2592@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</div>
+<br><br>
 
 # 💻 Tech Stack:
 
