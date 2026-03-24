@@ -1,4 +1,5 @@
-# 💫 About Me:
+## Hi, I’m Hamza Badshah!:
+
 I am an aspiring AI/ML Engineer and passionate programmer currently pursuing a BS in Software Engineering. I focus on building intelligent, data-driven solutions using Python, Machine Learning, and modern Software Engineering techniques. I enjoy solving complex problems, experimenting with algorithms, and developing systems that create real-world impact.<br><br>With growing experience in Python programming, ML model development, data preprocessing, AI concepts, and software design principles, I actively work on academic and personal projects to deepen my technical expertise. I recently completed a Generative AI Chatbot Bootcamp, which strengthened my interest in AI-powered applications and automation tools.<br><br>🔧 What I Do<br>Develop intelligent systems using Machine Learning and AI techniques<br>Build automation tools, utilities, and scripts in Python<br>Apply software engineering principles like clean code, modular design, and problem-solving frameworks<br>Work on academic and personal ML/AI projects to improve hands-on experience<br>
 
 
