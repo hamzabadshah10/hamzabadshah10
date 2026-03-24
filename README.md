@@ -19,7 +19,7 @@ I am an aspiring AI/ML Engineer and passionate programmer currently pursuing a B
   
   <br><br>
   
-  <img src="https://streak-stats.demolab.com/?user=hamzabadshah10&theme=nightowl&hide_border=false" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hamzabadshah10&theme=nightowl&hide_border=false" alt="Streak Stats" /> <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabadshah10&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
