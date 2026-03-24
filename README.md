@@ -1,12 +1,19 @@
 # Hi, 👋 I’m Hamza Badshah!</h1>
 
-**An aspiring AI/ML Engineer and passionate programmer currently pursuing a BS in Software Engineering.** I focus on building intelligent, data-driven solutions using Python, Machine Learning, and modern software design principles. I enjoy solving complex problems, experimenting with algorithms, and developing systems that create real-world impact.<br><br> With growing experience in Python programming, ML model development, data preprocessing, and AI concepts, I actively build academic and personal projects to deepen my technical expertise. Recently, I completed a Generative AI Chatbot Bootcamp, which strengthened my focus on developing AI-powered applications and automation tools.<br><br>
+**An aspiring AI/ML Engineer and passionate programmer currently pursuing a BS in Software Engineering.** I focus on building intelligent, data-driven solutions using Python, Machine Learning, and modern software design principles. I enjoy solving complex problems, experimenting with algorithms, and developing systems that create real-world impact.<br><br> With growing experience in Python programming, ML model development, data preprocessing, and AI concepts, I actively build academic and personal projects to deepen my technical expertise. Recently, and strengthened my focus on developing AI-powered applications and automation tools.<br><br>
 
 ## 🌐 Socials:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hamza-badshah-8aa304286/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:hamzabadshah2592@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/hamza-badshah-8aa304286/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:hamzabadshah2592@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 <br><br>
 
