@@ -2,9 +2,9 @@
 
 <h1>👋 Hi, I'm Hamza Badshah</h1>
 
-<p>🎓 Software Engineering Student @ <a href="https://paf-iast.edu.pk/">PAF-IAST, Haripur</a></p>
+<p>🎓 Software Engineering Student @ <a href="https://paf-iast.edu.pk/">Pak-Austria Fachhochschule, Haripur</a></p>
 
-<p>💻 Web Developer | 🤖 AI/ML Enthusiast | 🐍 Python Developer</p>
+<p> 🐍 Python Developer| 🤖 AI/ML Enthusiast | 🧩 Problem Solver </p>
 
 <img src="https://komarev.com/ghpvc/?username=hamzabadshah10&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
