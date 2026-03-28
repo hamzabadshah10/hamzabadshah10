@@ -2,7 +2,7 @@
 
 <h1>👋 Hi, I'm Hamza Badshah</h1>
 
-<p>🎓 Software Engineering Student @ <a href="https://paf-iast.edu.pk/">Pak-Austria Fachhochschule, Haripur</a></p>
+<p>🎓 Software Engineering Student @ <a href="https://paf-iast.edu.pk/">Pak-Austria Fachhochschule</a></p>
 
 <p> 🐍 Python Developer| 🤖 AI/ML Enthusiast | 🧩 Problem Solver </p>
 
