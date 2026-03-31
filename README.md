@@ -26,7 +26,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hamzabadshah10&theme=nightowl&hide_border=false" alt="Streak Stats" />  
-  <br><br>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson&type=horizontal&theme=radical)
