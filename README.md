@@ -29,8 +29,7 @@
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabadshah10&layout=compact" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabadshah10&layout=compact&theme=dark&hide_border=false" alt="Top Languages" /></div>
 
 </div>
 
