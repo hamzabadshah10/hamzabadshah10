@@ -25,13 +25,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hamzabadshah10&theme=nightowl&hide_border=false" alt="Streak Stats" />
-  
+  <img src="https://streak-stats.demolab.com/?user=hamzabadshah10&theme=nightowl&hide_border=false" alt="Streak Stats" />  
   <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabadshah10&layout=compact&theme=dark&hide_border=false" alt="Top Languages" /></div>
-
-</div>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson&type=horizontal&theme=radical)
