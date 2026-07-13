@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Software Engineering student** and an aspiring **AI/ML Engineer**. I specialize in building intelligent applications, developing machine learning models, and exploring deep data insights using Python. I thrive on solving complex problems and continuously learning modern software design principles.
+I am a passionate Software Engineering student and an aspiring AI/ML Engineer. I specialize in building intelligent applications, developing machine learning models, and exploring deep data insights using Python. I thrive on solving complex problems and continuously learning modern software design principles.
 
 - 🎓 **Education:** Pursuing a BS in Software Engineering at Pak-Austria Fachhochschule.
 - 🧠 **Focus:** Artificial Intelligence, Machine Learning, & Data Science.
